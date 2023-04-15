@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "Site": "100resepmenulebaran",	  
+    "site": "100resepmenulebaran",	  
     "public": "public",
     "ignore": [
       "firebase.json",
